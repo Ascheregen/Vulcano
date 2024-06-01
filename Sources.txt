@@ -1,0 +1,48 @@
+CC0 Audios:
+https://freesound.org/people/tim.kahn/sounds/197714/
+https://freesound.org/people/Rudmer_Rotteveel/sounds/336004/
+https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=49243
+https://freesound.org/people/TheoJT/sounds/569780
+
+Textur:
+https://opengameart.org/content/25-cc0-top-down-islands (CCO License)
+
+Objekt:
+CC0 Block Man Auto Rigged Humanoid, Liam Pillay (https://sketchfab.com/makestuffstudio)
+
+Grafiken:
+https://pixabay.com/de/illustrations/robin-vogel-tier-federn-gefieder-8515484/
+https://pixabay.com/de/photos/vogel-robin-gefieder-natur-7675884/
+https://pixabay.com/de/photos/robin-vogel-tier-7816219/
+https://www.pexels.com/de-de/foto/bucher-reihe-zeichen-symbole-8391514/
+
+Genutzte Tutorials:
+Explosion: Blender Tutorial - Creating a Simple Explosion Simulation (Sophia)
+Blender Tutorial - Creating a Simple Explosion Simulation  (Sophia)
+How To Make An Island In Blender 2.82 (Sophia)
+Add A Texture to An Object - Blender Tutorial (Sophia)
+How to make Trees in Blender with Sapling Tree Gen (Sophia)
+Blender Tutorial - How to use the Decimate Modifier (Sophia)
+How to Animate A Rubik's Cube (Blender Tutorial) (Karin)
+Greate Tubik's Cube In Blender | 3x3x3 Cube With Animation | Easy & Step-by-Step Guide For Modeling (Karin)
+How to destroy the cube rigid body in 1 Minute in Blender (Karin)
+Blender 3.0 Tutorial - How to Add An Image To An Object (Karin)
+Create an Ocean in 1 Minute in Blender (Karin)
+Interactive Water Simulation (with foam) in 3 Minutes| Blender quick Tutorial (Simon)
+Animate Handheld Cameras in Blender - Lazy Tutorials (Simon)
+how to make a character follow a curve and terrain of a surface in blender (Simon)
+How To Get Handheld Camera Movement In Blender (EASY) (Simon)
+Blender: Rig A Character From Scratch | CLEAR BEGINNERS GUIDE (Simon)
+Rig and Animate Character in 10 Minutes with Blender 3.1 (Simon)
+Low Poly Bulbul (Red-vented bulbul) Rigging Tutorial in Blender 2.93 (Vivien)
+Low Poly Indian Robin 3D modeling tutorial in Blender 2.93 (Vivien)
+Low Poly Bulbul (Red-vented bulbul) Modeling Tutorial in Blender 2.93 (Vivien)
+Intro to ALL THE NODES | Blender Geometry Nodes (Vivien)
+Low Poly Indian Common Myna Texture Painting Tutorial in Blender 2.93 (Vivien)
+Low Poly Bulbul (Red-vented bulbul) Texturing Tutorial in Blender 2.93 (Vivien)
+Procedural Ground collapsing and cracking with geometry nodes (Vivien)
+procedural cracks and destruction with geometrynodes (Vivien)
+How to Rig and Animate in BLENDER! (Vivien)
+How to Use the Camera in Blender (Tutorial)
+Take Your Blender Camera Animation to the Next Level (Vivien)
+Blender Tutorial - Procedural Cracked Earth Effect (Vivien)
